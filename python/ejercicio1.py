@@ -1,3 +1,7 @@
+# Programación funcional
+#Juan Felipe Rojas. 
+#Universidad Sergio Arboleda 
+
 from functools import reduce
 sueldo = 1000  #sueldo base
 ventas = [123, 456, 876]  #lista 
