@@ -1,3 +1,8 @@
+# Programación funcional
+#Juan Felipe Rojas. 
+#Universidad Sergio Arboleda 
+
+
 # lista vacía para almacenar los números ingresados por el usuario
 numeros = []
 # Iteramos 20 veces,  usuario ingrese 20 números

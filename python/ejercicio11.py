@@ -1,3 +1,8 @@
+
+# Programación funcional
+#Juan Felipe Rojas. 
+#Universidad Sergio Arboleda 
+
 longitud_vector = int(input("Ingrese la longitud del vector: "))
 #se define la longitud del vector 
 

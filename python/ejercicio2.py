@@ -1,3 +1,7 @@
+# Programación funcional
+#Juan Felipe Rojas. 
+#Universidad Sergio Arboleda 
+
 #se definen las notas 
 parciales = 4.5
 examen = 4.2

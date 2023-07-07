@@ -1,3 +1,8 @@
+# Programación funcional
+#Juan Felipe Rojas. 
+#Universidad Sergio Arboleda 
+
+
 # Función que calcula el precio a pagar por un cliente
 def calcular_precio(kilos):
     precio_kilo = 50 # Precio por kilo

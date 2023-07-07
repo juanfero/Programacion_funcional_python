@@ -1,3 +1,9 @@
+# Programación funcional
+#Juan Felipe Rojas. 
+#Universidad Sergio Arboleda 
+
+
+
 import random
 
 PREMIOS = {

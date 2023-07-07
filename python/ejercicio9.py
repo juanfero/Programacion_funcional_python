@@ -1,3 +1,8 @@
+# Programación funcional
+#Juan Felipe Rojas. 
+#Universidad Sergio Arboleda 
+
+
 import time
 
 imprimir_reloj = lambda h, m, s: (lambda: print(f"{h:02d}:{m:02d}:{s:02d}") or time.sleep(1)) 

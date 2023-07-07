@@ -1,3 +1,8 @@
+# Programación funcional
+#Juan Felipe Rojas. 
+#Universidad Sergio Arboleda 
+
+
 # Almacenar 15 valores ingresados por el usuario. utiilizando la funcion lambda 
 valores = list(map(lambda _: int(input("Ingrese un valor: ")), range(15)))
 

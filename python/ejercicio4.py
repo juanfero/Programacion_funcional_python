@@ -1,3 +1,8 @@
+# Programación funcional
+#Juan Felipe Rojas. 
+#Universidad Sergio Arboleda 
+
+
 convertir_romano = lambda numero_romano: (lambda romanos: romanos[numero_romano])({
     1: 'I', 
     2: 'II', 

@@ -1,3 +1,7 @@
+# Programación funcional
+#Juan Felipe Rojas. 
+#Universidad Sergio Arboleda 
+
 # Crear un vector de 16 posiciones y llenarlo con la funcion lambda creada, este tiene un rango de 16
 #
 vector = list(map(lambda x: x+1, range(16)))

@@ -1,3 +1,8 @@
+# Programación funcional
+#Juan Felipe Rojas. 
+#Universidad Sergio Arboleda 
+
+
 # Diccionario de descuentos por código de cajero
 descuentos = {
     1: 2,
