@@ -1,6 +1,7 @@
 # Programación funcional
 #Juan Felipe Rojas. 
-#Universidad Sergio Arboleda 
+#Universidad Sergio Arboleda
+#Clase paradigmas de programaión
 
 #se definen las notas 
 parciales = 4.5
