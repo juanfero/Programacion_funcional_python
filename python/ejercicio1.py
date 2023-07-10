@@ -2,6 +2,8 @@
 #Juan Felipe Rojas. 
 #Universidad Sergio Arboleda 
 
+#pranticando git
+
 from functools import reduce
 sueldo = 1000  #sueldo base
 ventas = [123, 456, 876]  #lista 
@@ -17,6 +19,9 @@ def ingresos_mes(sueldo, ventas):
     return (total)
 total=ingresos_mes(sueldo, ventas)
 print("el sueldo total es de: ", total)
+
+
+
 
 
 
